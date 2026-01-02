@@ -50,7 +50,7 @@ header h1::after {
     bottom: 0;
     left: 50%;
     transform: translateX(-50%);
-    width: 100px;
+    width: 280px;
     height: 2px;
     background: white;
     border-radius: 1px;
